@@ -7,11 +7,11 @@ try{
 let contact, number, ofc, nombre, description, correo, lugar, enlace, biog
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let pp = gataImg.getRandom()	
-const cat = `*Hola Si Deseas Hablarle A los Lideres Y Ceos Del Team Hydra Estos Son Sus Numeros :* 
-*1 :* +51 936 994 155 *Fundador Long Time*
-*3 :* +51 978 420 752 *Co Lider Long Time*
-*3 :* +51 963 181 293 *Lider Long Time*
-*4 :* +56 9 4248 6851 *Decana Long Timr*
+const cat = `*Hola Si Deseas Hablarle A los Lideres Y Ceos Del Team x27 Estos Son Sus Numeros :* 
+*1 :* +54 9 11 5963-4868 *Fundador BLODIE BOT*
+*3 :* +54 9 11 5963-4868 *Co Lider BLODIE BOT*
+*3 :* +54 9 11 5963-4868 *Lider BLODIE BOT*
+*4 :* +54 9 11 5963-4868 *Decana BLODIE BOT*
 
 `
 let biografiaBot = await conn.fetchStatus(conn.user.jid.split('@')[0] + '@s.whatsapp.net').catch(_ => 'undefined')
