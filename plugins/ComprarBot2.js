@@ -5,9 +5,9 @@ handler.command = /^(ComprarBot2)$/i;
 export default handler;
 global.ComprarBot2 = `
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ *Compra con Nosotros*‎ ‎ ‎‎  ‎  *Long Time Bot*‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ *Compra con Nosotros*‎ ‎ ‎‎  ‎  *BLODIE II Bot*‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
-‎ ‎ ‎🫰 *4* soles por grupo 
+‎ ‎ ‎🫰 *7* soles por 2 grupos 
 
 Adquiriendo el bot para grupos sería por ( *1 mes* ) de ahí tendrá que renovar
 
