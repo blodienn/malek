@@ -13,12 +13,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51936994155", '𝗬𝗵𝗮𝗶𝗿 𝗖𝗲𝗼', true], //𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁
-["51978420752", '𝗥𝗼𝗺𝗶𝗻𝗮 𝗖𝗼 𝗟𝗶𝗱𝗲𝗿', true], 
-["51902491284", '𝗩𝗮𝗹𝗲 𝗗𝗲𝗰𝗮𝗻𝗮', true], 
-["56942486851", '𝗣𝗮𝘂 𝗗𝗲𝗰𝗮𝗻𝗮', true], 
-["51963181293", '𝗔𝗮𝗿𝗼𝗻 𝗟𝗶𝗱𝗲𝗿', true], 
-["573112811966"]]
+["5491159634868", 'BLODIE', true], //𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁
+["5491159634868", 'MK 𝗖𝗼 𝗟𝗶𝗱𝗲𝗿', true], 
+["5491159634868", 'ARON 𝗗𝗲𝗰𝗮𝗻𝗮', true], 
+["5491159634868", 'Belen 𝗗𝗲𝗰𝗮𝗻𝗮', true], 
+["5491159634868", 'MaLEK 𝗟𝗶𝗱𝗲𝗿', true], 
+["5491159634868"]]
 
 global.mods = []
 global.prems = []
@@ -115,11 +115,11 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51936994155", '𝗬𝗵𝗮𝗶𝗿 𝗖𝗲𝗼 ', 1],
-["51978420752", '𝗥𝗼𝗺𝗶𝗻𝗮 𝗖𝗼 𝗟𝗶𝗱𝗲𝗿 ', 1],  
-["51902491284", '𝗩𝗮𝗹𝗲 𝗗𝗲𝗰𝗮𝗻𝗮 ', 1],  
-["56942486851", '𝗣𝗮𝘂 𝗗𝗲𝗰𝗮𝗻𝗮 ', 1],  
-["51963181293", '𝗔𝗮𝗿𝗼𝗻 𝗟𝗶𝗱𝗲𝗿 ', 1]]
+["5491159634868", 'BLODIE ', 1],
+["5491159634868", 'MK 𝗖𝗼 𝗟𝗶𝗱𝗲𝗿 ', 1],  
+["5491159634868", 'ARON 𝗗𝗲𝗰𝗮𝗻𝗮 ', 1],  
+["5491159634868", 'Belen 𝗗𝗲𝗰𝗮𝗻𝗮 ', 1],  
+["5491159634868", 'Malek 𝗟𝗶𝗱𝗲𝗿 ', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -127,8 +127,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁"
-global.author = "𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁"
+global.packname = "BLODIE II 𝗕𝗼𝘁"
+global.author = "BLODIE II 𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -136,37 +136,37 @@ global.author = "𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5"
-global.gt = "𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁"
+global.gt = "BLODIE II 𝗕𝗼𝘁"
 
-global.yt = "https://www.instagram.com/long.mixto.fem"
-global.yt2 = "https://www.instagram.com/long.mixto.fem"
-global.ig = "https://www.instagram.com/long.mixto.fem"
-global.md = "https://www.instagram.com/long.mixto.fem"
-global.fb = "https://www.instagram.com/long.mixto.fem"
-global.tk = "https://www.instagram.com/long.mixto.fem"
-global.ths = "https://www.instagram.com/long.mixto.fem"
-global.paypal = 'https://www.instagram.com/long.mixto.fem'
+global.yt = "https://www.instagram.com/x69_blodie_27"
+global.yt2 = "https://www.instagram.com/x69_blodie_27"
+global.ig = "https://www.instagram.com/x69_blodie_27"
+global.md = "https://www.instagram.com/x69_blodie_27"
+global.fb = "https://www.instagram.com/x69_blodie_27"
+global.tk = "https://www.instagram.com/x69_blodie_27"
+global.ths = "https://www.instagram.com/x69_blodie_27"
+global.paypal = 'https://www.instagram.com/x69_blodie_27'
 global.asistencia = 'https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS' //Contacto
-global.bot = 'wa.me/573112811966'
+global.bot = 'wa.me/5491160413309'
 
 
 global.nna = 'https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS' // CANAL UPDATE
-global.nn2 = 'https://www.instagram.com/long.mixto.fem' // CANAL GataBot
-global.nna2 = 'https://www.instagram.com/long.mixto.fem' // Help
-global.nn = 'https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS' // Grupo 1
-global.nnn = 'https://www.instagram.com/long.mixto.fem' // Grupo 2
-global.nnnt = 'https://www.instagram.com/long.mixto.fem' // Grupo 3
-global.nnntt = 'https://www.instagram.com/long.mixto.fem' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/long.mixto.fem' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/long.mixto.fem' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/long.mixto.fem' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/long.mixto.fem' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/long.mixto.fem' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/long.mixto.femr' // A.T.M.M
+global.nn2 = 'https://www.instagram.com/x69_blodie_27' // CANAL GataBot
+global.nna2 = 'https://www.instagram.com/x69_blodie_27' // Help
+global.nn = 'https://www.instagram.com/x69_blodie_27' // Grupo 1
+global.nnn = 'https://www.instagram.com/x69_blodie_27' // Grupo 2
+global.nnnt = 'https://www.instagram.com/x69_blodie_27' // Grupo 3
+global.nnntt = 'https://www.instagram.com/x69_blodie_27' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/x69_blodie_27' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/x69_blodie_27' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/x69_blodie_27' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/x69_blodie_27' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/x69_blodie_27' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/x69_blodie_27' // A.T.M.M
 global.nnnttt6 = 'https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/long.mixto.fem'
-global.channel2 = 'https://www.instagram.com/long.mixto.fem'
-global.channel3 = 'https://www.instagram.com/long.mixto.fem'
+global.channel1 = 'https://www.instagram.com/x69_blodie_27'
+global.channel2 = 'https://www.instagram.com/x69_blodie_27'
+global.channel3 = 'https://www.instagram.com/x69_blodie_27'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
@@ -191,13 +191,13 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁"
-global.igfg = "𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁"
+global.wm = "BLODIE II 𝗕𝗼𝘁"
+global.igfg = "BLODIE II 𝗕𝗼𝘁"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "51936994155"
+global.nomorown = "5491159634868"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
