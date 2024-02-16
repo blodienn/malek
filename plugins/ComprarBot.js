@@ -4,8 +4,8 @@ const handler = async (m, {conn}) => {
 handler.command = /^(ComprarBot|Comprar|comprar|ComprarBot)$/i;
 export default handler;
 
-global.ComprarBot = ` 𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁
+global.ComprarBot = ` BLODIE II 𝗕𝗼𝘁
 
 HABLAR AL :
-wa.me/51936994155
+wa.me/5491159634868
 `;
