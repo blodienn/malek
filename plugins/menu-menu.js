@@ -86,9 +86,9 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 let menu = `𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁
 
 *╔══ ≪ OWNER BOT ≫ ══╗*
-*║* 👤 Creador : Cristhofer
-*║* 📱 Numero ; +51 936 994 155
-*║* 🤑 Adquirir : +51 936 994 155
+*║* 👤 Creador : Malek
+*║* 📱 Numero ; +54 9 11 5963-4868
+*║* 🤑 Adquirir :+54 9 11 5963-4868
 *║* 👻 Ig Team : ${md}
 *║* 💻 Tiempo Activo : ${uptime}
 *╚══ ≪ •❈• ≫ ══╝*
@@ -353,7 +353,7 @@ let menu = `𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁
 *║* 💎➺ _${usedPrefix}añadirxp *@tag cantidad*_
 *║* 💎➺ _${usedPrefix}añadircoins *@tag cantidad*_
 *╚══ ≪ •❈• ≫ ══╝*`.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: 'BLODIE II 𝗕𝗼𝘁', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
