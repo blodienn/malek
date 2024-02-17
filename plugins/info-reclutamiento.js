@@ -1,15 +1,15 @@
 let media = './media/menus/Menuvid2.mp4'
 let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
-let str = `𝗧𝗲𝗮𝗺 𝗛𝘆𝗱𝗿𝗮 𝗕𝗼𝘁
+let str = `𝗧𝗲𝗮𝗺 x27
 
-𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼 𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 :
+𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼 BLODIE II :
 
 ${nna}
 
 𝗖𝗼𝗺𝗽𝗿𝗮 𝗗𝗲 𝗕𝗼𝘁 :
 
-+51 936 994 155
++54 9 11 5963-4868
 
 𝗜𝗴 𝗗𝗲 𝗧𝗲𝗮𝗺 :
 
