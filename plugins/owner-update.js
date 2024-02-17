@@ -4,8 +4,8 @@ const handler = async (m, { conn, text }) => {
   try {
           const stdout = execSync('git pull' + (m.fromMe && text ? ' ' + text : ''));
           let messager = stdout.toString()
-          if (messager.includes('Already up to date.')) messager = '𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁'
-          if (messager.includes('Updating')) messager = '𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁\n\n' + stdout.toString()
+          if (messager.includes('Already up to date.')) messager = 'BLODIE II 𝗕𝗼𝘁'
+          if (messager.includes('Updating')) messager = 'BLODIE 𝗕𝗼𝘁\n\n' + stdout.toString()
           conn.reply(m.chat, messager, m);
   } catch {      
  try {    
