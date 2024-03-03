@@ -1,6 +1,6 @@
 import { join, dirname } from 'path'
 import { createRequire } from 'module'
-import { fileURLToPath } from 'url'
+import { fileURLToPath } from 'url' 
 import { setupMaster, fork } from 'cluster'
 import { watchFile, unwatchFile } from 'fs'
 import cfonts from 'cfonts'
@@ -12,11 +12,11 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
  
-say('MK\nBLODIE\n2', {
+say('Pingui\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`BLODIE 2`, {
+say(BOT DE TIME LONG, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -24,7 +24,7 @@ gradient: ['red', 'magenta']})
 let isRunning = false
 /**
 * Start a js file
-* @param {String} file `path/to/file`
+* @param {String} file path/to/file
 */
 function start(file) {
 if (isRunning) return
