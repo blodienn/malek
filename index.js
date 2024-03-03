@@ -16,7 +16,7 @@ say('Pingui\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(BOT DE TIME LONG, {
+say(`BOT DE TIME LONG`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -24,7 +24,7 @@ gradient: ['red', 'magenta']})
 let isRunning = false
 /**
 * Start a js file
-* @param {String} file path/to/file
+* @param {String} file `path/to/file`
 */
 function start(file) {
 if (isRunning) return
